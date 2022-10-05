@@ -1,0 +1,11 @@
+[package]
+edition = "2021"
+name = "fix_zomboid_encoding"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chardetng = "0.1.17"
+encoding_rs = "0.8.31"
+walkdir = "2"
